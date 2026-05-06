@@ -4,7 +4,7 @@ This file contains context and conventions for AI coding assistants working on t
 
 ## Project Overview
 
-**Roguelike Pirate Mage Battle** — A console-based roguelike game written in Java as a final OOP project. Currently a single-file application (~2100 lines) undergoing modularization into a Maven project.
+**Roguelike Pirate Mage Battle** — A console-based roguelike game written in Java as a final OOP project. Modularized into a Maven multi-package project from a single-file application (~2100 lines).
 
 ## Agent skills
 
